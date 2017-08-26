@@ -1,10 +1,10 @@
-#webcode.zip包含的内容  
+#webcode包含的内容  
 
 这个版块里边包含：html,css,javascript,html5,css3,ecmascript6,vuejs,reactjs,jquery,bootstrap等技术的全部学习代码。 
 
-#webcode.zip下载方法
+#所有zip包下载方法
 
-点击“webcode.zip” ，进入之后，点击Download按钮即可
+点击每一个“webcode**.zip” ，进入之后，点击Download按钮即可
 
 #压缩包解压后的文件夹介绍：  
 
