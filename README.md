@@ -1,11 +1,15 @@
-#webcode包含的内容  
+### webcode包含的内容  
 
-这个版块里边包含：html,css,javascript,html5,css3,ecmascript6,vuejs,reactjs,jquery,bootstrap等技术的全部学习代码。 
+&emsp;&emsp;这个版块里边包含：html,css,javascript,html5,css3,ecmascript6,vuejs,reactjs,jquery,bootstrap等技术的全部学习代码。 
 
-#所有zip包下载方法
+### 所有zip包下载和使用方法
 
-点击每一个“webcode**.zip” ，进入之后，点击Download按钮即可
+&emsp;&emsp;点击每一个“webcode**.zip” ，进入之后，点击Download按钮。下载后，将其解压，把代码导入到Hbuilder中即可。
 
-#压缩包解压后的文件夹介绍：  
+### 如何获取以上代码的相关教程？
 
-压缩包解压后，打开文件夹，然后可以看到一个一个子文件夹，每个子文件夹是一个代码工程。你需要将每个工程导入到Hbuilder开发工具中即可使用
+&emsp;&emsp;关注“工云IT技术”公众号，即可获取J2EE，Web前端，Android，微信小程序等四大门类，三百多篇技术资料。扫描以下二维码即可：
+
+&emsp;&emsp; ![](https://github.com/gongyunit/resources/blob/master/ewm.png) 
+
+&emsp;&emsp;工云IT技术：专业级的互联网IT技术研究和分享平台
